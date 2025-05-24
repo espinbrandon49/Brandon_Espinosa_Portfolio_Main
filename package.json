@@ -1,8 +1,8 @@
 {
-  "name": "brandon-espinosa-portfolio",
+  "name": "brandon-espinosa-portfolio-main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://espinbrandon49.github.io/Brandon_Espinosa_Portfolio/",
+  "homepage": "https://espinbrandon49.github.io/Brandon_Espinosa_Portfolio_Main/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
