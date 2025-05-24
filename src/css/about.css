@@ -76,7 +76,7 @@
   font-size: 1em;
   font-style: italic;
   color: var(--color-secondary);
-  text-align: justify;
+  text-align: center;
 }
 
 @media(max-width: 500px) {
