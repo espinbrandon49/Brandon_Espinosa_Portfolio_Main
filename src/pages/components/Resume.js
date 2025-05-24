@@ -8,7 +8,7 @@ const Resume = () => {
         <h3 className="resume-main-heading">Brandon Espinosa Resume</h3>
         <h3 className="resume-sub-heading">Full Stack Software Developer</h3>
         <div className="resume-sm-heading">Portfolio: <a className="resume-sm-heading-link" href="bit.ly/43DWnG2">bit.ly/43DWnG2 </a>| Email:  <a className="resume-sm-heading-link" href="mailto:" >espinbrandon49@gmail.com</a> | Phone: 313-645-0722
-          <br></br>Address:  Detroit, MI / or Remote / Available to relocate</div>
+          <br></br>Address:  Detroit, MI | Available to relocate</div>
       </div>
 
       <div className="resume-body container">
