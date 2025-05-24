@@ -105,7 +105,7 @@ const Skills = () => {
 
           <li>
             <div className="skills-subheading">
-              Object-oriented programming (Java)
+              Object-oriented programming (Java and Python)
             </div>
             <ul>
               <li>

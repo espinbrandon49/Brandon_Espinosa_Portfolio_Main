@@ -31,7 +31,7 @@ const About = () => {
             <i className="fas fa-star-of-life star"></i>
           </div>
           <p className="description">
-            Full Stack Software Developer turbocharged about building the space of the future using modern, in-demand, and bleeding edge technologies!
+            Former U.S. Army Airborne Ranger Medic turned Technical Recruiter, now a Full Stack Web Developer passionate about building the future with responsive design, AI-driven solutions, and modern technologies.
           </p>
           <div className="stars">
             <i className="fas fa-star-of-life star"></i>

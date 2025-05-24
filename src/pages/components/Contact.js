@@ -30,7 +30,7 @@ const Contact = () => {
           Available to relocate to anywhere in the U.S.
         </p>
       </div>
-      <a className='footer-repo-link' href='https://github.com/espinbrandon49/Brandon_Espinosa_Portfolio' target='_blank'>
+      <a className='footer-repo-link' href='https://github.com/espinbrandon49/Brandon_Espinosa_Portfolio_Main' target='_blank'>
         <div class="footer-github">
           <p class="footer-github-paragraph">
             <i className="fa-brands fa-github"></i>

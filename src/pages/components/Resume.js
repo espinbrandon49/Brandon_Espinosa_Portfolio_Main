@@ -7,7 +7,7 @@ const Resume = () => {
       <div className="resume-heading" id="resume">
         <h3 className="resume-main-heading">Brandon Espinosa Resume</h3>
         <h3 className="resume-sub-heading">Full Stack Software Developer</h3>
-        <div className="resume-sm-heading">Portfolio: <a className="resume-sm-heading-link" href="https://rb.gy/95tdd">https://rb.gy/95tdd </a>| Email:  <a className="resume-sm-heading-link" href="mailto:" >espinbrandon49@gmail.com</a> | Phone: 313-645-0722
+        <div className="resume-sm-heading">Portfolio: <a className="resume-sm-heading-link" href="bit.ly/43DWnG2">bit.ly/43DWnG2 </a>| Email:  <a className="resume-sm-heading-link" href="mailto:" >espinbrandon49@gmail.com</a> | Phone: 313-645-0722
           <br></br>Address:  Detroit, MI / or Remote / Available to relocate</div>
       </div>
 
@@ -21,7 +21,7 @@ const Resume = () => {
             <li><strong>Server Side Development</strong> - User Authentication, Template Engines, MERN (MongoDB, Express.js, React.js, Node.js)</li>
             <li><strong>API Design </strong> - Client-Server Model, API, Rest, JSON, AJAX (Fetch API), HTTP request methods, GraphQL</li>
             <li><strong>Deployment and Delivery</strong> - Git, GitHub, Heroku, Shell Scripting, Unit Testing, Linting, Continuous Integration</li>
-            <li><strong>Object-oriented programming</strong> - Java Core, OOP, Design Patterns, Interfaces, Microservices, Rest Webservices, Maven, Gradle, Spring Boot, JUnit</li>
+            <li><strong>Object-oriented programming</strong> - Python, Java</li>
           </ul>
         </div>
 

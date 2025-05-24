@@ -17,7 +17,7 @@ Hello! Thank you for visiting my portfolio and, reviewing my projects developed 
 ***
 
 ## Background
-I began my professional life as a U.S Army Airborne Ranger Medic, then pivoted to a Technical Recruiter role post military career, and am now a Full Stack Web Developer, turbocharged about building the space of the future using modern, in-demand, and bleeding edge technologies.
+I launched my career as a U.S. Army Airborne Ranger Medic, where I honed skills in discipline, adaptability, and critical decision-making. Following my military service, I transitioned into the tech sector as a Technical Recruiter, gaining a deep understanding of talent acquisition and industry trends. Today, as a Full Stack Web Developer, I bring that same drive and precision to crafting intelligent, responsive digital experiences using AI, HTML/CSS, and cutting-edge technologies.
 
 ## Technologies
 ### Skilled in JavaScript, Node.js, React, MERN, and Java
@@ -46,12 +46,12 @@ I began my professional life as a U.S Army Airborne Ranger Medic, then pivoted t
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ## Resume
-You can view and download my resume and also peruse my projects, which include links to live demos and code repositories [here](https://espinbrandon49.github.io/Brandon_Espinosa_Portfolio/).
+You can view and download my resume and also peruse my projects, which include links to live demos and code repositories [here](https://espinbrandon49.github.io/Brandon_Espinosa_Portfolio_Main/).
 
 ## Installation
-* Runs in the browser [here](https://espinbrandon49.github.io/brandon-espinosa-portfolio/)
+* Runs in the browser [here](https://espinbrandon49.github.io/Brandon_Espinosa_Portfolio_Main/)
 
 ## Contact
 - espinbrandon49@gmail.com
-- https://github.com/espinbrandon49
+- https://github.com/espinbrandon49/Brandon_Espinosa_Portfolio_Main
 - https://www.linkedin.com/in/brandon-espinosa-b65a0b241 

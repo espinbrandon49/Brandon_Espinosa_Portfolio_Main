@@ -14,7 +14,7 @@ const Home = () => {
       </div>
       <div className="header-banner">
         <h1 className="main-heading">Welcome</h1>
-        <h3 className="sub-heading">Skilled in JavaScript, Node.js, React, MERN, and Java</h3>
+        <h3 className="sub-heading">Skilled in JavaScript, Node.js, React, MERN, Python</h3>
         <a href={pdf} target='__blank' download><button type="button" className="main-btn">Resume</button>
         </a>
       </div>
