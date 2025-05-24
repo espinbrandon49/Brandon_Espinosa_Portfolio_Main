@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Brandon_Espinosa_Portfolio/static/css/main.989e8d22.css",
+    "main.js": "/Brandon_Espinosa_Portfolio/static/js/main.327fc9b8.js",
+    "static/media/brandon_image.jpg": "/Brandon_Espinosa_Portfolio/static/media/brandon_image.19b7f2e502faad9fb667.jpg",
+    "static/media/ev-charging.png": "/Brandon_Espinosa_Portfolio/static/media/ev-charging.695a9e30228e756d1d5d.png",
+    "static/media/swap-meet-react.png": "/Brandon_Espinosa_Portfolio/static/media/swap-meet-react.a6abebe5caadac6a9852.png",
+    "static/media/globemaster.png": "/Brandon_Espinosa_Portfolio/static/media/globemaster.11bc49a343b1e29d01c1.png",
+    "static/media/hack-a-thought.png": "/Brandon_Espinosa_Portfolio/static/media/hack-a-thought.51cecc50c0b765626b81.png",
+    "static/media/narratorium.png": "/Brandon_Espinosa_Portfolio/static/media/narratorium.315268c21e0a2244ec4f.png",
+    "static/media/relaxationjournal.png": "/Brandon_Espinosa_Portfolio/static/media/relaxationjournal.6bed8ec6acf67e850072.png",
+    "static/media/hireable-hippo-helper.png": "/Brandon_Espinosa_Portfolio/static/media/hireable-hippo-helper.a6559bc0f90bcf524fb6.png",
+    "static/media/Brandon_Espinosa_Resume.pdf": "/Brandon_Espinosa_Portfolio/static/media/Brandon_Espinosa_Resume.2b7a30cde72a5a052d3c.pdf",
+    "static/media/social-pals-react.png": "/Brandon_Espinosa_Portfolio/static/media/social-pals-react.bd25eb30c62c16cb15cd.png",
+    "static/media/myExpenseTracker.png": "/Brandon_Espinosa_Portfolio/static/media/myExpenseTracker.7ed4b247a018601f6091.png",
+    "static/media/exchange-rate-calculator.png": "/Brandon_Espinosa_Portfolio/static/media/exchange-rate-calculator.80719161b7d47fdb26bf.png",
+    "static/media/expense-tracker.png": "/Brandon_Espinosa_Portfolio/static/media/expense-tracker.a77d5cf7d950cac61347.png",
+    "static/media/hangman.png": "/Brandon_Espinosa_Portfolio/static/media/hangman.e86b4d6f44762b64cf64.png",
+    "static/media/stark-bare-notes.png": "/Brandon_Espinosa_Portfolio/static/media/stark-bare-notes.9b27b14e3e4cde1d711a.png",
+    "static/media/movie-seat-booking.png": "/Brandon_Espinosa_Portfolio/static/media/movie-seat-booking.df23d18942639458c01b.png",
+    "index.html": "/Brandon_Espinosa_Portfolio/index.html",
+    "main.989e8d22.css.map": "/Brandon_Espinosa_Portfolio/static/css/main.989e8d22.css.map",
+    "main.327fc9b8.js.map": "/Brandon_Espinosa_Portfolio/static/js/main.327fc9b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989e8d22.css",
+    "static/js/main.327fc9b8.js"
+  ]
+}
