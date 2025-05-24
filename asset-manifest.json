@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Brandon_Espinosa_Portfolio_Main/static/css/main.1d902cb4.css",
-    "main.js": "/Brandon_Espinosa_Portfolio_Main/static/js/main.a5b096f0.js",
+    "main.css": "/Brandon_Espinosa_Portfolio_Main/static/css/main.303430e8.css",
+    "main.js": "/Brandon_Espinosa_Portfolio_Main/static/js/main.32e865b1.js",
     "static/media/brandon_image.jpg": "/Brandon_Espinosa_Portfolio_Main/static/media/brandon_image.19b7f2e502faad9fb667.jpg",
     "static/media/ev-charging.png": "/Brandon_Espinosa_Portfolio_Main/static/media/ev-charging.695a9e30228e756d1d5d.png",
     "static/media/swap-meet-react.png": "/Brandon_Espinosa_Portfolio_Main/static/media/swap-meet-react.a6abebe5caadac6a9852.png",
@@ -19,11 +19,11 @@
     "static/media/stark-bare-notes.png": "/Brandon_Espinosa_Portfolio_Main/static/media/stark-bare-notes.9b27b14e3e4cde1d711a.png",
     "static/media/movie-seat-booking.png": "/Brandon_Espinosa_Portfolio_Main/static/media/movie-seat-booking.df23d18942639458c01b.png",
     "index.html": "/Brandon_Espinosa_Portfolio_Main/index.html",
-    "main.1d902cb4.css.map": "/Brandon_Espinosa_Portfolio_Main/static/css/main.1d902cb4.css.map",
-    "main.a5b096f0.js.map": "/Brandon_Espinosa_Portfolio_Main/static/js/main.a5b096f0.js.map"
+    "main.303430e8.css.map": "/Brandon_Espinosa_Portfolio_Main/static/css/main.303430e8.css.map",
+    "main.32e865b1.js.map": "/Brandon_Espinosa_Portfolio_Main/static/js/main.32e865b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d902cb4.css",
-    "static/js/main.a5b096f0.js"
+    "static/css/main.303430e8.css",
+    "static/js/main.32e865b1.js"
   ]
 }
